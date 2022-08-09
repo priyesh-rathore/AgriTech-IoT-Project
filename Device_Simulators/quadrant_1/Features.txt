@@ -1,0 +1,10 @@
+1. Each script contains 5 soil sensors and 1 sprinkler code. (5 soil_sensors + 1 sprinkler = 1 AWS thing)
+2. Device Parameters are : 
+	i) Device Name 	:    A device name string
+     ii) Device ID 	     :    A unique uuid
+    iii) Coordinates 	:    [lat, long]
+     iv) Sprinkler 	     :    Name of the alloted sprinkler
+	v) Temperature 	:    Taken by calling the OpenWeather API on that lat,long
+     vi) Moisture 	     :    In range (30,40) when simulator is started. Decreases when no rain and sprinkler OFF. 
+                              Increases either in rain or sprinkler ON.
+				          Temperature determines the rate at which the moisture is decreasing.

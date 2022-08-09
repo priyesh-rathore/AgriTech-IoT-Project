@@ -1,0 +1,96 @@
+[
+    {
+        "coord": {
+            "lon": 88.0699,
+            "lat": 23.6941
+        },
+        "weather": [
+            {
+                "id": 501,
+                "main": "Rain",
+                "description": "moderate rain",
+                "icon": "10n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 27.4,
+            "feels_like": 30.77,
+            "temp_min": 27.4,
+            "temp_max": 27.4,
+            "pressure": 1003,
+            "humidity": 81,
+            "sea_level": 1003,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.83,
+            "deg": 148,
+            "gust": 7.88
+        },
+        "rain": {
+            "1h": 3.16
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1658606478,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1658619211,
+            "sunset": 1658667275
+        },
+        "timezone": 19800,
+        "id": 1267457,
+        "name": "Kātoya",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 88.0699,
+            "lat": 23.6941
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "light rain",
+                "icon": "10n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 27.1,
+            "feels_like": 30.27,
+            "temp_min": 27.1,
+            "temp_max": 27.1,
+            "pressure": 1003,
+            "humidity": 83,
+            "sea_level": 1003,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.46,
+            "deg": 139,
+            "gust": 7.37
+        },
+        "rain": {
+            "1h": 0.61
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1658608315,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1658619211,
+            "sunset": 1658667275
+        },
+        "timezone": 19800,
+        "id": 1267457,
+        "name": "Kātoya",
+        "cod": 200
+    }
+]
